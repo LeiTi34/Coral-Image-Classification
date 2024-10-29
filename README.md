@@ -1,5 +1,3 @@
-# GI Tract Image Segmentation
+# Healthy and Bleached Corals Image Classification
 
-## Initialize project
-
-Download [the data](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation/data) and extract the file to the `./data` folder.
+[Datasource](https://www.kaggle.com/datasets/vencerlanz09/healthy-and-bleached-corals-image-classification/data)
