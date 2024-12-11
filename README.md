@@ -31,4 +31,4 @@ Used models:
 ### Running the Notebooks
 
 To run the notebooks use a jupyter environment of your choice.
-MobileNetV2 and VGG16 are trained using the jupyter server in the [docker-compose.yml](./docker-compose.yml) file, ResNet50 is trained using [GPU Hub](https://gpuhub.labservices.ch) and InceptionV3 is trained using ??????.
+MobileNetV2 and VGG16 are trained using the jupyter server in the [docker-compose.yml](./docker-compose.yml) file, ResNet50 and InceptionV3 is trained using [GPU Hub](https://gpuhub.labservices.ch).
