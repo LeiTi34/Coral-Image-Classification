@@ -28,6 +28,13 @@ Used models:
 - [ResNet50](./ResNet50.ipynb)
 - [InceptionV3](./InceptionV3.ipynb)
 
+The reports for MobileNetV2 are included in the notebook itself, ResNet50 and InceptionV3 are in separate PDF files.
+
+- [MobileNetV2](./MobileNet-Coral-Image-Classification.ipynb)
+- [VGG16](./VGG16-BN-Corals-Image-Classification.ipynb)
+- [ResNet50](<./ResNet50 Report.pdf>)
+- [InceptionV3](<./ResNet50 Report.pdf>)
+
 ### Running the Notebooks
 
 To run the notebooks use a jupyter environment of your choice.
