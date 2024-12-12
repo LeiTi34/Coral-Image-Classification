@@ -38,4 +38,4 @@ The reports for MobileNetV2 are included in the notebook itself, ResNet50 and In
 ### Running the Notebooks
 
 To run the notebooks use a jupyter environment of your choice.
-MobileNetV2 and VGG16 are trained using the jupyter server in the [docker-compose.yml](./docker-compose.yml) file, ResNet50 and InceptionV3 is trained using [GPU Hub](https://gpuhub.labservices.ch).
+MobileNetV2 and VGG16 are trained using the jupyter server in the [docker-compose.yml](./docker-compose.yml) file, ResNet50 and InceptionV3 are trained using [GPU Hub](https://gpuhub.labservices.ch).
